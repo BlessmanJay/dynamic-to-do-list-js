@@ -43,4 +43,5 @@ document.addEventListener("DOMContentLoaded", function () {
       addTask();
     }
   });
+  classList.add;
 });
